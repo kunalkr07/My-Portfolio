@@ -23,9 +23,14 @@
     
     border-radius: 20px;
 }
-.contianer h3{
-  color:white;
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
+
+
 .skill-name h2{
     height:50px;
     text-align: center;
@@ -34,9 +39,32 @@
     font-size: 35px;
 }
 
-.name h3{
+.name>.fa-brands{
     margin-left:10px;
-    color:#fff;
+    font-size: 40px;
+}
+
+.name>.fa-html5{
+  color:#fb5607;
+}
+.name>.fa-css3-alt{
+  color:#0077b6;
+}
+.name>.fa-js{
+  color:yellow;
+}
+.name>.fa-react{
+  color:#023e8a;
+}
+.name>.fa-php{
+  color:#03045e;
+}
+
+.name>.fa-bootstrap{
+  color:#8338ec;
+}
+.name>h3{
+  color:#fff;
 }
 
 .skill-overview{
