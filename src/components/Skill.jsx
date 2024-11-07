@@ -51,7 +51,7 @@ const Skill = () => {
        
         <div className="container">
           <div className="name">
-          <i class="fa-brands fa-html5"></i>
+          <i className="fa-brands fa-html5"></i>
           </div>
           <div className="skill">
             <div className="progress">
@@ -61,7 +61,7 @@ const Skill = () => {
         </div>
         <div className="container">
           <div className="name">
-          <i class="fa-brands fa-css3-alt"></i>
+          <i className="fa-brands fa-css3-alt"></i>
           </div>
           <div className="skill">
             <div className="progress">
@@ -71,7 +71,7 @@ const Skill = () => {
         </div>
         <div className="container">
           <div className="name">
-          <i class="fa-brands fa-js"></i>
+          <i className="fa-brands fa-js"></i>
           </div>
           <div className="skill">
             <div className="progress">
@@ -81,7 +81,7 @@ const Skill = () => {
         </div>
         <div className="container">
           <div className="name">
-          <i class="fa-brands fa-react"></i>
+          <i className="fa-brands fa-react"></i>
           </div>
           <div className="skill">
             <div className="progress">
@@ -101,7 +101,7 @@ const Skill = () => {
         </div>
         <div className="container">
           <div className="name">
-          <i class="fa-brands fa-php"></i>
+          <i className="fa-brands fa-php"></i>
           </div>
           <div className="skill">
             <div className="progress">
@@ -111,7 +111,7 @@ const Skill = () => {
         </div>
         <div className="container">
           <div className="name">
-          <i class="fa-brands fa-bootstrap"></i>
+          <i className="fa-brands fa-bootstrap"></i>
           </div>
           <div className="skill">
             <div className="progress">
@@ -121,7 +121,7 @@ const Skill = () => {
         </div>
         <div className="container">
           <div className="name">
-          <i class="fa-brands fa-github"></i>
+          <i className="fa-brands fa-github"></i>
           </div>
           <div className="skill">
             <div className="progress">
