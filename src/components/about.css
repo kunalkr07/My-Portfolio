@@ -34,10 +34,7 @@
     transform: rotate(-4deg);
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2),
     0 4px 10px rgba(0, 0, 0, 0.4), 0 4px 8px rgba(0, 0, 0, 0.3);
-    /* box-shadow: 4px 4px 10px -6px rgba(255,255,255,0.7),-4px -4px 10px -6px rgba(255,255,255,0.8),
-    inset 6px 6px 10px rgba(255,255,255,0.7) ,
-    inset -6px -6px 10px rgba(255,255,255,0.7) ; */
-    /* border:0.5px solid grey; */
+   
 }
 .content-para{
     font-size: 18px;
@@ -95,7 +92,17 @@
     }
 
     .right-content{
-        padding: 0;
+        padding: 2px;
+        width:100%;
+       
+    }
+    .content-para{
+    word-wrap: break-word;
+    white-space:normal;
+    }
+
+    .about-section{
+        padding:0px 10px;
     }
     .about-content{
         padding: 0;

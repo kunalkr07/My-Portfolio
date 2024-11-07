@@ -111,13 +111,19 @@ text-underline-offset: 5px;
     width:150px;
    }
 }
-@media screen and (max-width:590px) {
+@media screen and (max-width:500px) {
     .project-info{
         height:auto;
        }
 
        .boxes{
-        margin-top:20px;
+       margin:30px;
+       height:150px;
+       width:180px;
 
+       }
+
+       .project-content{
+        width:120px;
        }
 }
