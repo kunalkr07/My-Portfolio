@@ -150,11 +150,23 @@
 @media screen and (max-width: 500px) {
   .hero-content {
     width: 400px;
+    text-align: center;
+
+  }
+  .hero-content>p{
+    line-height: 1.2;
   }
   .hero-container {
     display: flex;
+    justify-content: center;
+    align-items: center;
     padding: 0;
     height: 700px;
+    
+  }
+
+  .sociel-icons-list{
+    display: flex;
     justify-content: center;
     align-items: center;
   }
